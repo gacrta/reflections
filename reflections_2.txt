@@ -34,3 +34,8 @@ acessible.
 Merging two branches together is putting the chenges made in one branch on another,
 resulting in a commit with two fathers. We represent that way because it contains 
 info from both branches and it makes sense.
+
+- What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pros: add or remove without conflict code automaticaly
+con: cant resolve conflict alone. This way its necessary to merge manually
