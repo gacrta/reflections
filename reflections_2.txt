@@ -22,3 +22,8 @@ and commit these files.
 Branches are helpful when we decide to change our project in a way that may or may not
 be added to the project at the end. They help when we split our project and we can work
 on both of them separately.
+
+- How do the diagrams help you visualize the branch structure?
+Diagrams help to viasualize the branch structure showing that the structure
+is not linear. This way we can see better the branches and the commits that are not
+acessible.
