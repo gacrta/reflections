@@ -27,3 +27,10 @@ on both of them separately.
 Diagrams help to viasualize the branch structure showing that the structure
 is not linear. This way we can see better the branches and the commits that are not
 acessible.
+
+- What is the result of merging two branches together? Why do we represent it in 
+- the diagram the way we do?
+
+Merging two branches together is putting the chenges made in one branch on another,
+resulting in a commit with two fathers. We represent that way because it contains 
+info from both branches and it makes sense.
