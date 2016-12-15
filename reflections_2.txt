@@ -1,0 +1,13 @@
+- What happens when you initialize a repository? Why do you need to do it?
+
+Whe we initialize a repository, Git transforms a normal directory in a repository, 
+adding a .git folder. After that, no commit was done yet. We need to
+do it because it the .git folder stores all the information.
+
+- How is the staging area different from the working directory and the repository?
+- What value do you think it offers?
+
+The staging area is different from the working directory and the repository, because
+the itens in the staging area are to be commited. The itens in the repository 
+already have been commited and not all itens in the working directory are commited itens.
+
