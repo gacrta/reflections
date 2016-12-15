@@ -11,3 +11,7 @@ The staging area is different from the working directory and the repository, bec
 the itens in the staging area are to be commited. The itens in the repository 
 already have been commited and not all itens in the working directory are commited itens.
 
+- How can you use the staging area to make sure you have one commit per logical change?
+
+We can use the staging area to add only the files that correspond to a logical change 
+and commit these files. 
