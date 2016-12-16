@@ -1,1 +1,37 @@
 Hi, these are my reflections of the course Version Control using Git
+
+- Como a visualizacao de um diff entre duas versoes ajuda a ver o bug
+que foi introduzido?
+
+O diff ajuda pois mostra exatamente onde os arquivos sao diferentes,
+reduzindo o trabalho do programador (ele so' deve agora comparar duas
+linhas que foram imprimidas na tela ao invez de comparar dois arquivos
+por inteiro).
+
+-Question 02-
+
+- Quais são os pros e os contras de manualmente escolher quando realizar o 
+commit, como o Git. vs salvar automaticamente, como o GDocs:
+
+Pros
+- vc escolhe o momento bom para commit.
+- versoes que podem fazer mais sentido logico
+
+Contras
+- vc pode se esquecer de commit
+- vc pode errar na dose de tempo de salvar
+
+- Porque um sistema como o Git permite salvar diversos arquivos
+de uma vez e outros como GDocs salva os arquivos independentemente?
+
+Por que esses sistemas possuem arquivos alvo diferentes. No código
+pode fazer bastante sentido salvar arquivos diferentes ao mesmo tempo.
+Nos textos, como os arquivos podem ser não-relacioados, então faz
+mais sentido salvá-los separadamente.
+
+- Como utilizar os comandos git log e git diff para ver o histórico de um
+arquivo?
+
+O comando git log mostra todos os commits realizados em um repositorio.
+Nele podemos ver os commit ID's e com isso executar o comando git diff
+para comparar dois commits.
