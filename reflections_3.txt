@@ -18,3 +18,9 @@ Clone is used when you want to copy a project and it's Git data. A branch is use
 want (or need) to start a experimental project using a previous project as template. Fork 
 is when you want to clone someone else's project and want to keep a link to the original 
 project.
+
+- What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Have a copy of the last known state of the remote on your local computer is interisting
+because it warns you if our local branch is not up-to-date and it remembers you to sync 
+your local and remote branches.
